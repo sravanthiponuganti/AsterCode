@@ -1,0 +1,707 @@
+#Banner_mage{
+	width = 1440px;
+	height = 874px;
+	    margin-left: -104px;
+
+}
+
+.adult-paediatric-b {
+  color: #FFFFFF;
+  font-family: Titillium;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 40px;
+  width: 622px;
+  text-align: left;
+   position: absolute;
+  bottom: 218px;
+    right: 583px;
+}
+.haematology-oncolo {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 25px;
+  letter-spacing: 3.59px;
+  line-height: 34px;
+  width: 599px;
+  text-align: left;
+   
+}.rectangle {
+  background-color: #DD5A6A;
+  border-radius: 3.2px;
+  width: 186px;
+  height: 45px;
+}
+
+.book-an-appoinment {
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 14.4px;
+  line-height: 17px;
+  text-align: center;
+  margin-left: 10px;
+}
+#group3{
+	width:451px;
+	height:451px;
+	margin-top: 69px;
+}
+
+.groupReactangle  {
+
+ background-color: #6078EA;
+  border-radius: 4px;
+  width: 586px;
+  height: 95px;
+  margin-left: 49px;
+margin-top: 97px;
+    text-align: center;
+}
+
+.bone-marrow-transpla {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 18px;
+  line-height: 26px;
+  width: 545px;
+  text-align: left;
+      margin-top: 18px;
+}
+
+
+.replacement-of-disea {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  width: 532px;
+  text-align: left;
+      margin-left: 53px;
+    margin-top: 29px;
+
+}
+.medicines-and-in-cer {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  width: 623px;
+  text-align: left;
+    margin-left: 53px;
+    margin-top: 29px;
+}
+.in-autologous-bone-m {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  width: 605px;
+  text-align: left;
+   margin-left: 53px;
+    margin-top: 29px;
+}
+.doctors {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+  margin-left:92px
+}
+.rectangleBoxes {
+  background-color: #F9F9FF;
+  border-radius: 4px;
+  width: 539px;
+  height: 860px;
+  margin-left:88px;
+} 
+.rectangleBoxestwo {
+  background-color: #F9F9FF;
+  border-radius: 4px;
+  width: 539px;
+  height: 860px;
+  margin-left:12px;
+} 
+.pediatric-bmt {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 24px;
+  letter-spacing: 0.99px;
+  line-height: 44px;
+  text-align: left;
+  margin-left:178px;
+}
+#BitMapCopy{
+width:256px;
+height:161px;
+margin-left: 141px;
+}
+
+.dr-vijay-agarwal-copy {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 22px;
+  letter-spacing: 1.76px;
+  line-height: 26px;
+  text-align: center;
+  margin-left: 167px;
+}
+
+.md-mrcp-ph-d-cct-le-copy {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 11px;
+  letter-spacing: 1.2px;
+  line-height: 3px;
+  text-align: center;
+}
+.dr-vijay-agarwal-is-copy {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 20px;
+  width: 423px;
+  text-align: center;
+  margin-left:59px;
+}
+.line-5-copy {
+  border: 1px solid #22B78E;
+  width: 37px;
+  height: 1px;
+  margin-left:244px;
+}
+.knowmore {
+  background-color:   #4a9ae5;
+  border-radius: 4px;
+  width: 129px;
+  height: 49px;
+  margin-left: 205px;
+}
+.know-moreLabel {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1px;
+  line-height: 18px;
+      margin-top: 14px;
+    margin-left: 19px;
+   
+}
+.line-3-copy-6 {
+  border: 1px solid #ECECFF;
+  width: 415px;
+  height: 2px;
+  margin-left: 58px;
+      margin-top: 24px;
+}
+.line-4-copy-6 {
+  border: 1px solid #ECECFF;
+  width: 415px;
+  height: 2px;
+  margin-left: 58px;
+      margin-top: 43px;
+}
+.what-are-the-types-o {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+  margin-top: 38px;
+    margin-left: 88px;
+}
+.hospital{
+	width:16px;
+	height:16px;
+	 margin-left: 89px;
+	 margin-top: 33px;
+}
+.autologous-bone-marr {
+  margin-left: 115px;
+    margin-top: -29px;
+    color: #000000;
+    font-family: StagSans;
+    font-size: 14px;
+    line-height: 39px;
+    width: 1068px;
+    text-align: left;
+}
+.the-warning-signs-of {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+  margin-left: 93px;
+}
+.rectangle1{
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+  margin-left: 84px;
+}
+.triangle{
+width:30px;
+height:41px;
+margin-left: 28px;
+    margin-top: 34px;	
+}
+.failure-to-thrive {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+      margin-left: 29px;
+
+}
+.infections-warrantin {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+      margin-left: 29px;
+
+}
+.triangle1{
+width:30px;
+height:41px;
+margin-left: 45px;
+    margin-top: 34px;	
+	  margin-left: 28px;
+}
+.rectangle-copy-7 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+     margin-left: 22px;
+}
+.rectangle-copy-6 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+  margin-left: 49px;
+}
+.triangle2{
+vwidth:27px;
+height:38px;
+margin-left: 45px;
+    margin-top: 34px;	
+	   margin-left: 28px;
+}
+.requirement-of-intra {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+}
+.rectangle-copy-8 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+  margin-left: 49px;
+  margin-left: -4px;
+     
+}
+.rectangle-copy-10 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+  margin-left: 49px;
+    margin-top: 21px;
+}
+.rectangle-copy-11 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+  margin-left: 23px;
+    margin-top: 21px;
+}
+.rectangle-copy-12 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+     margin-left: -4px;
+    margin-top: 21px;
+}
+.rectangle-copy-13 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+   margin-left: 49px;
+    margin-top: 21px;
+}
+.triangle3{
+vwidth:31px;
+height:25px;
+margin-left: 28px;
+    margin-top: 34px;	
+}
+ 
+.rectangle-copy-9 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+  
+  margin-left: 84px;
+    margin-top: 21px;
+}
+.triangle4{
+vwidth:31px;
+height:25px;
+margin-left: 28px;
+    margin-top: 34px;	
+}
+.triangle5{
+vwidth:31px;
+height:25px;
+margin-left: 28px;
+    margin-top: 34px;	
+}
+.triangle6{
+vwidth:31px;
+height:25px;
+margin-left: 28px;
+    margin-top: 34px;	
+}
+.triangle7{
+vwidth:31px;
+height:25px;
+margin-left: 28px;
+    margin-top: 34px;	
+}
+.triangle8{
+vwidth:31px;
+height:25px;
+margin-left: 28px;
+    margin-top: 34px;	
+}
+.family-history-of-de {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+  margin-left: 29px;
+}
+.triangle9{
+vwidth:31px;
+height:25px;
+margin-left: 28px;
+    margin-top: 34px;	
+}
+.repeated-episodes-of {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+  margin-left: 29px;
+}
+.two-or-more-episodes-o{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+  margin-left:29px;
+}
+.repeated-skin-infect {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: left;
+  margin-left: 29px;
+}
+.repeated-abscess-for {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+  margin-left: 29px;
+}
+.vrequirement-of-intra{
+	 color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+      margin-left: 29px;
+
+} 
+.what-are-the-conditi{
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 797px;
+  text-align: left;
+  margin-left: 98px;
+    margin-top: 51px;
+}
+.double-tick{
+	width:14px;
+	height:8px;
+}
+.bmt-is-the-treatment{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 30px;
+  width: 1052px;
+  text-align: left;
+  margin-left: 27px;
+    margin-top: -18px;
+}
+.line-3-copy-2{
+  border: 1px solid #ECECFF;
+  width: 1111px;
+  height: 10px;
+  margin-left: 97px;
+}
+.double-tick2{
+	width:14px;
+	height:8px;
+	    margin-top: -127px;
+}
+.bmt-is-the-treatment1{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 30px;
+  width: 1052px;
+  text-align: left;
+  margin-left: 27px;
+    margin-top: -18px;
+}
+.which-are-the-hemato{
+  color: blue;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 994px;
+  text-align: left;
+}
+.path-copy{
+  color: #1D5AA6;
+  width: 22px;
+  height: 11px;
+  margin-left: 146px;
+}
+.line-3-copy-3{
+  border: 1px solid #ECECFF;
+  width: 1111px;
+  height: 10px;
+}
+.which-are-the-cancer{
+  color:blue;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 994px;
+  text-align: left;
+}
+.path-copy1{
+  color: #1D5AA6;
+  width: 22px;
+  height: 11px;
+     margin-left: 290px;
+}
+.line-3-copy-4{
+  border: 1px solid #ECECFF;
+  width: 1111px;
+  height: 10px;
+}
+.do-bone-marrow-failu{
+  color: blue;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 994px;
+  text-align: left;
+}
+.path-copy2{
+	color: blue;
+  width: 22px;
+  height: 11px;
+       margin-left: 496px;
+}
+.line-3-copy-5{
+  border: 1px solid #ECECFF;
+  width: 1111px;
+  height: 10px;
+}
+.what-are-primary-imm{
+  color: blue;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 994px;
+  text-align: left;
+}
+.path-copy3{
+	color:blue;
+  width: 22px;
+  height: 11px;
+       margin-left: 506px;
+}
+.line-3-copy-6{
+  border: 1px solid #ECECFF;
+  width: 1111px;
+  height: 10px;
+  margin-left: 1px;
+}
+.line-3-copy-7{
+  border: 1px solid #ECECFF;
+  width: 1111px;
+  height: 10px;
+}
+.which-are-the-immune{
+  color: blue;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 994px;
+  text-align: left;
+}
+.path-copy4{
+	color:blue;
+  width: 22px;
+  height: 11px;
+      margin-left: 443px;
+}
+.what-makes-transplan{
+  color: blue;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 994px;
+  text-align: left;
+}
+.path-copy5{
+	color:blue;
+  width: 22px;
+  height: 11px;
+          margin-left: 526px;
+}
+.path-copy6{
+	color:blue;
+  width: 22px;
+  height: 11px;
+         margin-left: 981px;
+    margin-top: -35px;
+}
+.login {
+  background-color: #FFFFFF;
+  box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+  width: 339px;
+  height: 492px;
+}
+
+
+.testimonials {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+      margin-left: 16px;
+    margin-top: 17px;
+
+}
+
+.it-is-a-long-establi {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 21px;
+  width: 609px;
+  text-align: left;
+  
+    margin-left: 22px;
+}
+
+.john-doe {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: left;
+}
+.softwere-engineer {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: left;
+      margin-left: 73px;
+    margin-top: -22px;
+}
+
+.bookAnOppointment {
+  background-color: #004498;
+  border-radius: 3.81px;
+  width: 221px;
+  height: 54px;
+  margin-left: 408px;
+    margin-top: 25px;
+}
+.book-an-appoinmentEnd {
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 17.14px;
+  line-height: 21px;
+  text-align: left;
+  margin-top: 18px;
+  margin-left: 10px;
+}
